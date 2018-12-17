@@ -1,0 +1,29 @@
+---
+label: Lab Member
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: first_name
+  label: First Name
+- type: text
+  name: family_name
+  label: family name
+- type: file
+  label: photo
+  name: headshot
+  description: A photograph of you, preferably with your face clearly visible
+  config:
+    maxSize: '2'
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - graduate student
+    - undergraduate researcher
+    - postdoc
+    - PI
+  label: role
+  name: role
+  description: This person's role in the lab
