@@ -1,0 +1,47 @@
+---
+layout: default
+title: Dispatches from the field
+---
+
+
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    
+    <div class="section-title">
+        
+        <h2><span>Dispatches from the field...</span></h2>
+        
+    </div>
+    <div class="row">
+    <div class="col-xsm-4 col-md-8">
+       <div class="row listrecent">
+
+           {% for post in paginator.posts %}
+
+                  {% include postbox.html %}          
+
+           {% endfor %}
+       </div>
+    </div>
+    <div class="col-xsm-4 col-md-4">
+       <a class="twitter-timeline" data-height="600" href="https://twitter.com/wabarree?ref_src=twsrc%5Etfw">Tweets by wabarree</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    </div>
+    
+    
+</section>
+
+
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
+

@@ -1,0 +1,10 @@
+---
+menu:
+- title: People
+  subfolderitems:
+  - page: W. Andrew Barr
+    url: "/Barr/"
+  - page: Graduate Students
+    url: "/grad-students/"
+  - page: Undergraduate Students
+    url: "/undergrads/"

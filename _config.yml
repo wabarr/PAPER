@@ -1,0 +1,37 @@
+name: Human Paleoecology and Functional Morphology Lab
+description: ""
+meta_description: "Human Paleobiology and Functional Morphology Lab George Washington University - Andrew Barr"
+logo: 'assets/images/barr_avatar.jpg'
+favicon: ''
+baseurl: ''
+google_analytics: 
+disqus: 
+mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+#  - jekyll-archives
+    
+## Archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
+    
+    
+permalink: :year/:month/:day/:title:output_ext/
+
+collections:
+  - people
+
+# Pagination 
+paginate: 6
+paginate_path: "/blog/page:num/"
+    
+# Other
+markdown: kramdown
+highlighter: rouge
