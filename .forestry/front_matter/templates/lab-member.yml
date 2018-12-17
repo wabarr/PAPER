@@ -27,3 +27,5 @@ fields:
   label: role
   name: role
   description: This person's role in the lab
+pages:
+- _people/andrew-barr.md
