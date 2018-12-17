@@ -3,5 +3,4 @@ layout: default
 title: Home
 
 ---
-
-Welcome to the GWU HPMFL website!
+Welcome to the GWU HPFML website!
