@@ -5,6 +5,5 @@ first_name: W. Andrew
 family_name: Barr
 headshot: ''
 role: PI
-published: false
 
 ---
