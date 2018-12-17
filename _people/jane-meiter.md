@@ -5,5 +5,6 @@ first_name: Jane
 family_name: Meiter
 headshot: assets/images/meiter.jpg
 role: undergraduate researcher
+username: jane
 
 ---
