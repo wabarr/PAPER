@@ -7,10 +7,6 @@
        <a class="nav-link" href="{{site.baseurl}}/">Home</a>
        </li>
        
-       <li class="nav-item">
-       <a class="nav-link" href="{{site.baseurl}}/blog/">Blog</a>
-       </li>
-       
        {% for item in site.data.menu.menu %}
           <li class="nav-item dropdown">
              <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">{{item.title}}</a>
@@ -21,6 +17,14 @@
              </div>
           <li>
        {% endfor %}
+       
+       <li class="nav-item">
+       <a class="nav-link" href="{{site.baseurl}}/code-of-conduct/">Code of Conduct</a>
+       </li>
+       
+       <li class="nav-item">
+       <a class="nav-link" href="{{site.baseurl}}/blog/">Blog</a>
+       </li>
         
         <li class="nav-item">
         <a target="_blank"  class="nav-link" href="https://twitter.com/wabarree"><i class="fab fa-twitter"></i></a>

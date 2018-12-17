@@ -4,7 +4,7 @@ menu:
   subfolderitems:
   - page: W. Andrew Barr
     url: "/andrew-barr/"
-  - page: Graduate Students
-    url: "/grad-students/"
   - page: Undergraduate Students
     url: "/undergrads/"
+  - page: Graduate Students
+    url: "/grad-students/"
