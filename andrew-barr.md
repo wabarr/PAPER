@@ -11,7 +11,8 @@ title: Principal Investigator
 {% if PIs.size == 1 %}
 {% for barr in PIs %}
 <div class="row">
-<div class="col-12">
+<div class="col-s12 col-md-8">
+   <h2>W. Andrew Barr</h2>
    <img class="img-fluid" src="{{site.baseurl}}/{{barr.headshot}}" alt="W. Andrew Barr">
 </div>
 </div>
