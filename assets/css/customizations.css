@@ -6,8 +6,3 @@
 .navbar-brand img {
     border-radius: 50%;
 }
-
-.mediumnavigation .navbar-brand img {
-   max-height: 60px;
-   margin-right: 5px;
-}
