@@ -1,10 +1,10 @@
 ---
-title: HPFML Code of Conduct
+title: Code of Conduct
 layout: page
 ---
 
 
-All members of the HPFML agree to uphold the following principles of behavior:
+All members of the GWU Human Paleoecology Lab agree to uphold the following principles of behavior:
 
 
 

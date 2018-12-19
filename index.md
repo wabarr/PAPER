@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: home
 title: Home
 
 ---
-Welcome to the GWU HPFML website!
+Welcome to the GWU Human Paleoecology Lab website!
