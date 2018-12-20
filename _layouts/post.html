@@ -30,17 +30,15 @@ post_class: post-template
                 <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row post-top-meta">
-					<div class="col-md-2">
+					<div class="col-12">
 						<img class="author-thumb" src="{% if author.headshot != '' %}{{site.baseurl}}/{{author.headshot}}{% else %}{{site.baseurl}}/assets/images/blog-authors/unknown.png{% endif %}"alt="{{ author.first_name }} {{author.family_name}}">
 					</div>
-					<div class="col-md-10">
-						{% if author.web != '' %}
-                  <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.first_name }} {{author.family_name}}</a>
-                  {% else %}
+					<div class="col-12">
                   {{author.first_name}} {{ author.family_name }}
-                  {% endif %}
-                  {% if author.twitter != '' %}
-                  <a target="_blank" href="https://twitter.com/{{ author.twitter | replace: '@', '' }}" class="btn follow">Follow</a>
+               </div>
+               <div class="col-12">
+                  {% if author.twitter and author.twitter != '' %}
+                  <a target="_blank" href="https://twitter.com/{{ author.twitter | replace: '@', '' }}"><i class="fab fa-twitter"></i> Follow</a>
                   {% endif %}
 						<span class="author-description">{{ author.about_me }}</span>						
 					</div>
