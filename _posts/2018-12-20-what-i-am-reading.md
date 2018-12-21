@@ -8,4 +8,4 @@ author: wabarr
 
 ---
 
-Clarke and Kuman. The skull of StW 573, a 3.67 Ma *Australopithecus* skeleton from Sterkfontein Caves, South Africa. Preprint. Preprint available from https://www.biorxiv.org/content/early/2018/12/04/483495
+Clarke and Kuman. The skull of StW 573, a 3.67 Ma *Australopithecus* skeleton from Sterkfontein Caves, South Africa. Available [as a preprint](https://www.biorxiv.org/content/early/2018/12/04/483495).
