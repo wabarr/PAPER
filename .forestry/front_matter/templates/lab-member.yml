@@ -28,6 +28,5 @@ fields:
   name: role
   description: This person's role in the lab
 pages:
-- _posts/2018-12-24-faces-of-fieldwork.md
 - _people/jane-meiter.md
 - _people/andrew-barr.md
