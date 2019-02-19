@@ -22,6 +22,11 @@ fields:
   config:
     required: true
   default: wabarr
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
 pages:
 - _posts/2018-12-16-what-i-am-reading.md
 - _posts/2019-02-19-what-i-am-reading.md
