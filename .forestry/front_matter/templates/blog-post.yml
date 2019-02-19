@@ -23,4 +23,7 @@ fields:
     required: true
   default: wabarr
 pages:
+- _posts/2018-12-16-what-i-am-reading.md
+- _posts/2018-12-20-what-i-am-reading.md
+- _posts/2018-12-24-faces-of-fieldwork.md
 - _posts/2019-02-19-what-i-am-reading.md
