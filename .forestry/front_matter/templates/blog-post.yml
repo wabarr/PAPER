@@ -22,3 +22,5 @@ fields:
   config:
     required: true
   default: wabarr
+pages:
+- _posts/what-i-am-reading.md
