@@ -1,5 +1,5 @@
 ---
-title: 
+title: Faces of Fieldwork
 layout: post
 date: 2018-12-24
 categories:
