@@ -1,7 +1,7 @@
 ---
 layout: post
 author: wabarr
-title: What I am Reading
+title: Dietary versatility of Early Pleistocene hominins
 categories:
 - reading list
 date: 2019-02-26 05:00:00 +0000
