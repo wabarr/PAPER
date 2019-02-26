@@ -4,6 +4,12 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: title
+  label: title
+  config:
+    required: true
+  description: title for this page (usually just your full name)
+- type: text
   name: first_name
   label: First Name
   default: ''
