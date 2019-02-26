@@ -3,7 +3,7 @@ layout: post
 author: wabarr
 title: Grassland fire ecology has roots in the late Miocene
 categories:
-- Reading List
+- reading list
 date: 2019-02-19 17:14:13 +0000
 image: ''
 
