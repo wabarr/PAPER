@@ -6,11 +6,11 @@ fields:
 - type: text
   name: first_name
   label: First Name
-  default: Nick
+  default: ''
 - type: text
   name: family_name
   label: family name
-  default: Burns
+  default: ''
 - type: file
   label: photo
   name: headshot
@@ -29,7 +29,7 @@ fields:
   label: role
   name: role
   description: This person's role in the lab
-  default: graduate student
+  default: ''
 pages:
 - _people/andrew-barr.md
 - _people/jane-meiter.md
