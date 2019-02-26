@@ -1,6 +1,5 @@
 ---
-title: What I am Reading Australopithecus skeleton from Sterkfontein Caves, South
-  Africa
+title: Australopithecus skeleton from Sterkfontein Caves, South Africa
 layout: post
 date: 2018-12-20 00:00:00 +0000
 categories:
