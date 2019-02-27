@@ -31,5 +31,4 @@ fields:
   name: image
   label: image
 pages:
-- _posts/what-i-am-reading.md
 - _posts/2019-02-19-what-i-am-reading.md
