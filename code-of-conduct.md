@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-All members of the GWU Human Paleoecology Lab agree to abide by the following principles in our laboratory and in our fieldwork.
+All members of the GWU Human Paleoecology Lab agree to abide by certain core principles in our laboratory and in our fieldwork. These principles are laid out in this Code of Conduct. 
 
 We are committed to making participation in research a positive and enriching experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.
 
