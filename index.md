@@ -3,6 +3,6 @@ layout: home
 title: Home
 
 ---
-Welcome to the GWU Human Paleoecology Lab website! We study the environmental context of human evolution in Africa using a combination of field and laboratory based approaches.
+Welcome to the GWU PaleoAnthropology and PaleoEcology Research lab! We study the environmental context of human evolution in Africa using a combination of field and laboratory based approaches.
 
-The PI of the lab is <a href="/andrew-barr/">W. Andrew Barr</a>.
+The PIs of the lab are <a href="/andrew-barr/">W. Andrew Barr</a> and Bernard Wood.
