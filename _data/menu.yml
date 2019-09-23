@@ -3,7 +3,7 @@ menu:
 - title: People
   subfolderitems:
   - page: W. Andrew Barr
-    url: "/andrew-barr/"
+    url: "/andrew-barr/" 
   - page: Undergraduate Students
     url: "/undergrads/"
   - page: Graduate Students
