@@ -20,7 +20,7 @@ Reed, DN, **Barr WA**, Kappelman J. 2018. PaleoCore: an open-source platform for
 
 Fraser D, Haupt R, **Barr WA**. 2018. Phylogenetic Signal In Tooth Wear Dietary Niche Proxies. *Ecology and Evolution*. 8:5355-5368 [doi:10.1002/ece3.4052](https://doi.org/10.1002/ece3.4052)
 
-Blondel C, Rowan J, Merceron G, Bibi F, Negash E, **Barr WA**, Boisserie JR. 2018. Feeding ecology of Tragelaphini (Bovidae) from the Shungura Formation, Omo Valley, Ethiopia: contribution of dental wear analyses. *Palaeogeography, Palaeoclimatology, Palaeoecology*. 496:103-120.
+Blondel C, Rowan J, Merceron G, Bibi F, Negash E, **Barr WA**, Boisserie JR. 2018. Feeding ecology of Tragelaphini (Bovidae) from the Shungura Formation, Omo Valley, Ethiopia: contribution of dental wear analyses. *Palaeogeography, Palaeoclimatology, Palaeoecology*. 496:103-120. [doi:10.1016/j.palaeo.2018.01.027](https://doi.org/10.1016/j.palaeo.2018.01.027)
 
 **Barr WA**. 2017. Signal or noise? A null model method for testing hypotheses about pulsed faunal turnover. *Paleobiology*. 43:656-666. [doi:10.1017/pab.2017.21](https://doi.org/10.1017/pab.2017.21)
 
