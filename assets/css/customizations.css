@@ -12,3 +12,11 @@
   padding-left: 30px ;
   text-indent: -30px ;
 }
+
+a {
+	color:#F26924;
+}
+
+a:hover{
+	color:#EE9423;
+}
