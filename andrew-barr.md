@@ -18,7 +18,7 @@ title: Principal Investigator
    <p>Currently I am exploring a new  late Miocene field site in Laikipia, Kenya, which is unique because of its geographic position outside the Great Rift Valley. I also have an active fieldwork program at Koobi Fora (Turkana Basin, Kenya) and in the Afar Region of Ethiopia (Mille-Logya). In the lab I use 3D scanning and principles of ecological functional morphology to understand the locomotor and dietary adaptations of the fauna I recover in the course of my fieldwork.</p>
 </div>
 <div class="col-xs-12 col-md-6">
-   <img class="img-fluid rounded-circle" src="{{site.baseurl}}/{{person.headshot}}" alt='{{display_name}}'>
+   <img class="img-fluid" src="{{site.baseurl}}/{{person.headshot}}" alt='{{display_name}}'>
 </div>
 </div>
 {% endfor %}
