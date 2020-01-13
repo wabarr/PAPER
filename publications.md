@@ -6,6 +6,8 @@ layout: page
 
 ---
 
+Geraads D, **Barr WA**, Reed DN, Laurin M, Alemseged Z. New remains of *Camelus grattardi* (Mammalia, Camelidae) from the Plio-Pleistocene of Ethiopia and the phylogeny of the genus. Journal of Mammalian Evolution. In Press.
+
 Tóth, AB, Lyons SK, **Barr WA**, Behrensmeyer AK, Blois JL, Bobe R, Davis M, Du A, Eronen J, Faith JT, Fraser D, Gotelli NJ, Graves GR, Jukar AM, Miller JH, Pineda-Munoz S, Soul LC, Villaseñor A, Alroy J. 2019. Reorganization of surviving mammal communities after the end-Pleistocene megafaunal extinction. *Science.* 365:1305-1308. [doi:10.1126/science.aaw1605](https://dx.doi.org/10.1126/science.aaw1605 )
 
 Patterson DB, Braun DR, Allen K, **Barr WA**, Behrensmeyer AK, Biernat M, Lehmann SB, Maddox T, Manthi FK, Merritt SR, Morris SE, O'Brien K, Reeves JS, Wood BA, Bobe R. 2019. Comparative isotopic evidence from East Turkana is consistent with a dietary shift between early *Homo* and *Homo erectus*. *Nature Ecology and Evolution*. 3:1048-1056. [doi:10.1038/s41559-019-0916-0](https:://dx.doi.org/10.1038/s41559-019-0916-0)
