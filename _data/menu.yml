@@ -8,3 +8,5 @@ menu:
     url: "/undergrads/"
   - page: Graduate Students
     url: "/grad-students/"
+  - page: Postdoctoral Researchers
+    url: "/post-docs/"
