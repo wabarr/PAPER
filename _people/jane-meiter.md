@@ -8,3 +8,5 @@ role: undergraduate researcher
 username: jane
 
 ---
+
+Jane is a senior at GWU.  Jane is a major contributer to the 3D comparative osteology collection project.  

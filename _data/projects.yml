@@ -1,7 +1,9 @@
 ---
+- name: Did an increasingly carnivorous <em>Homo erectus</em> cause Pleistocene mammal extinctions in eastern Africa?
+  description: This project combines dental enamel isotopes and ecomorphology to determine which Turkana Basin herbivore species were being consumed by which fossil carnivore species, with an ultimate goal of determining which carnivores were in direct competition with <em>Homo ergaster/erectus</em>.  We aim to test whether increased hominin carnivory caused a trophic disruption that led to a cascade of extinctions of herbivore and carnivore species.  
+- name: Paleoecology and Paleoanthropology of Laikipia, Kenya
+  description: PI Barr directs field research at a probable late Miocene site known as Tumbili Estate. This project provides a new window into the poorly known late Miocene, the interval during which hominins diverged from our ape relatives.  More broadly, Barr is actively working to develop the paleontological and paleoanthropological potential of Laikipia County. 
 - name: Paleoecology and Paleoanthropology of Mille-Logya Ethiopia
-  description: PI Barr conducts fieldwork at this site in northeastern Ethiopia. 
-- name: Human Impacts on Pleistocene Food Webs
-  description: When did humans first start fundamentally altering our ecosystems?
-- name: Building a 3D comparative osteology collection
-  description: Lab members are actively involved in scanning and curating a large comparative osteology collection using a Einscan Pro Structured Light Scanner. 
+  description: PI Barr conducts fieldwork at this site with an international team of researchers lead by Dr. Zeray Alemseged. Sediments at Mille-Logya date from ca. 2.9 - 2.3 Ma, providing a new data on this period which saw the extinction of <em>Australopithecus afarensis</em> and the origin of <em>Homo</em>.
+- name: 3D comparative osteology collection
+  description: Lab members including several undergraduates are actively involved in scanning and curating a large comparative osteology collection drawn mainly from the Smithonian National Museum of Natural History using Einscan Pro Structured Light Scanners. 
