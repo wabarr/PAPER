@@ -21,13 +21,14 @@ title: W. Andrew Barr
 
 
 <div class="col-xs-12 col-md-6">
-	<a href="{{site.CVlink}}">Download CV as PDF</a><br>
+	
 
 	<object data="{{site.CVlink}}" type="application/pdf" width="100%" height="100%">
 	<iframe src={{site.CVlink}} width="100%" height="100%" style="border: none;">
-	This browser does not support PDFs. Please download the PDF to view it: <a href="{{page.CVlink}}">Download PDF</a>
+	This browser does not support embedded PDFs. Please download the PDF to view it: <a href="{{page.CVlink}}">Download PDF</a>
 	</iframe>
 	</object>
+	<a href="{{site.CVlink}}">Download CV as PDF</a><br>
 </div>
 
 
