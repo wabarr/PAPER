@@ -20,3 +20,8 @@ a {
 a:hover{
 	color:#EE9423;
 }
+
+
+#outerContainer #sidebarContainer {
+  display: none !important; /* hide PDF viewer toolbar */
+}
