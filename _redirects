@@ -1,1 +1,4 @@
 https://gwhpl.netlify.com/* https://gwhpl.wabarr.com/:splat 301!
+
+# Redirect domain aliases to primary domain
+https://wabarr.com/* https://paper.wabarr.com/:splat 301!
