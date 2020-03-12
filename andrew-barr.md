@@ -23,12 +23,18 @@ title: W. Andrew Barr
 
 <div class="col-xs-12 col-md-6">
 	
-
-	<object data="{{site.CVlink}}" type="application/pdf" width="100%" height="600px">
-	<iframe src={{site.CVlink}} width="100%" height="100%" style="border: none;">
-	This browser does not support embedded PDFs. Please download the PDF to view it: <a href="{{page.CVlink}}">Download PDF</a>
-	</iframe>
-	</object>
+	<div id="adobe-dc-view" style="height: 800px; width: 100%;"></div>
+	<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+	<script type="text/javascript">
+		document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+			var adobeDCView = new AdobeDC.View({clientId: "0eac2aafe76c4f1391ba5a5bf09dab62", divId: "adobe-dc-view"});
+			adobeDCView.previewFile({
+				content:{location: {url: "{site.CVlink}"}},
+				metaData:{fileName: "Barr_CV.pdf"}
+			}, {embedMode: "SIZED_CONTAINER"});
+		});
+	</script>
+	
 	<a href="{{site.CVlink}}">Download Barr's CV as PDF</a>
 </div>
 
