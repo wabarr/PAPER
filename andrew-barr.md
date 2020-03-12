@@ -29,7 +29,7 @@ title: W. Andrew Barr
 		document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 			var adobeDCView = new AdobeDC.View({clientId: "0eac2aafe76c4f1391ba5a5bf09dab62", divId: "adobe-dc-view"});
 			adobeDCView.previewFile({
-				content:{location: {url: "{site.CVlink}"}},
+				content:{location: {url: "{{site.CVlink}}"}},
 				metaData:{fileName: "Barr_CV.pdf"}
 			}, {embedMode: "SIZED_CONTAINER"});
 		});
