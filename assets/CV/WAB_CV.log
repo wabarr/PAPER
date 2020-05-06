@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  6 MAY 2020 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  6 MAY 2020 14:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -373,84 +373,88 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 137--144
  []
 
 [3]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 150--180
+Overfull \hbox (3.47873pt too wide) in alignment at lines 150--179
+ [] [] 
+ []
+
+
+Overfull \hbox (3.47873pt too wide) in alignment at lines 179--184
  [] [] 
  []
 
 [4]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 185--203
+Overfull \hbox (3.47873pt too wide) in alignment at lines 189--207
  [] [] 
  []
 
 [5]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 227--230
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 231--234
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 232--242
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 236--246
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 244--249
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 248--253
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 252--259
-[] 
- []
-
-
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 261--271
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 256--263
 [] 
  []
 
 [6]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 274--280
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 265--275
+[] 
+ []
+
+
+Overfull \hbox (3.47873pt too wide) in alignment at lines 278--284
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 283--288
+Overfull \hbox (3.47873pt too wide) in alignment at lines 287--292
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 291--295
+Overfull \hbox (3.47873pt too wide) in alignment at lines 295--299
  [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--307
-
  []
 
 [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
+Underfull \hbox (badness 10000) in paragraph at lines 302--311
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+[8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
  (./WAB_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 315.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 319.
  ) 
 Here is how much of TeX's memory you used:
  6130 strings out of 492616
  91578 string characters out of 6129482
- 205135 words of memory out of 5000000
+ 207135 words of memory out of 5000000
  9971 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,43p,509b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,43p,509b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (8 pages, 54008 bytes).
+Output written on WAB_CV.pdf (8 pages, 54607 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
