@@ -36,6 +36,6 @@ fields:
   description: This person's role in the lab
   default: ''
 pages:
-- _people/nick-burns.md
 - _people/andrew-barr.md
 - _people/jane-meiter.md
+- _people/nick-burns.md
