@@ -1,7 +1,7 @@
 ---
 layout: post
 author: wabarr
-title: Mille Logya project announcement paper
+title: "New fossils from Mille Logya, Afar, Ethiopia"
 date: 2020-5-19
 image: 'assets/images/colluvium.JPG'
 
