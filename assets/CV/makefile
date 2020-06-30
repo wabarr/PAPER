@@ -1,4 +1,4 @@
-WAB_CV.pdf: barrpubs.tex WAB_CV.tex
+WAB_CV.pdf: barr_journal_articles.tex barr_chapters.tex WAB_CV.tex
 	pdflatex WAB_CV.tex
 	pdflatex WAB_CV.tex
 	open -a Preview ~/Documents/GitHub/PAPER-lab/assets/CV/WAB_CV.pdf
