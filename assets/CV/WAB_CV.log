@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 SEP 2020 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 SEP 2020 19:35
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **WAB_CV.tex
 (./WAB_CV.tex
@@ -461,10 +462,10 @@ Here is how much of TeX's memory you used:
 exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (9 pages, 58860 bytes).
+Output written on WAB_CV.pdf (9 pages, 58983 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 144 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  50 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
