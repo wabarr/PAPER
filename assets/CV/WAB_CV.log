@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  14 OCT 2020 11:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  27 OCT 2020 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -385,55 +385,55 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 282--285
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 287--299
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 287--300
 [] 
  []
 
 [7]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 301--306
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 302--307
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 309--316
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 310--317
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 318--328
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 319--329
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 331--339
+Overfull \hbox (3.47873pt too wide) in alignment at lines 332--340
  [] [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 342--347
+Overfull \hbox (3.47873pt too wide) in alignment at lines 343--348
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 350--355
+Overfull \hbox (3.47873pt too wide) in alignment at lines 351--356
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--368
+Underfull \hbox (badness 10000) in paragraph at lines 359--369
 
  []
 
 [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 377.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 377.
  (./WAB_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 377.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 377.
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 377.
  ) 
 Here is how much of TeX's memory you used:
  6160 strings out of 492616
@@ -447,7 +447,7 @@ Here is how much of TeX's memory you used:
 exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 59844 bytes).
+Output written on WAB_CV.pdf (10 pages, 59877 bytes).
 PDF statistics:
  166 PDF objects out of 1000 (max. 8388607)
  149 compressed objects within 2 object streams
