@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 JAN 2021 10:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 JAN 2021 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,14 +350,8 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 74--87
 
 (./barr_journal_articles.tex [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (55.32518pt too wide) in paragraph at lines 15--16
-\OT1/phv/m/n/10 A mul-ti-proxy anal-y-sis of early Pliocene Bovi-dae. \OT1/phv/
-m/sl/10 Jour-nal of Hu-man Evo-lu-tion\OT1/phv/m/n/10 . 151:102928. [][]doi:10.
-1016/j.jhevol.2020.102928[][] 
- []
-
-[2]) (./barr_chapters.tex) [3]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (.
+/barr_chapters.tex) [3]
 Overfull \hbox (3.47873pt too wide) in paragraph at lines 101--107
 [] 
  []
@@ -453,10 +447,10 @@ Here is how much of TeX's memory you used:
 exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 60216 bytes).
+Output written on WAB_CV.pdf (10 pages, 60237 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
+ 169 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
  65 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
