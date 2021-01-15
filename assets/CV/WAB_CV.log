@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  3 DEC 2020 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 JAN 2021 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,8 +350,14 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 74--87
 
 (./barr_journal_articles.tex [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (.
-/barr_chapters.tex) [3]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (55.32518pt too wide) in paragraph at lines 15--16
+\OT1/phv/m/n/10 A mul-ti-proxy anal-y-sis of early Pliocene Bovi-dae. \OT1/phv/
+m/sl/10 Jour-nal of Hu-man Evo-lu-tion\OT1/phv/m/n/10 . 151:102928. [][]doi:10.
+1016/j.jhevol.2020.102928[][] 
+ []
+
+[2]) (./barr_chapters.tex) [3]
 Overfull \hbox (3.47873pt too wide) in paragraph at lines 101--107
 [] 
  []
@@ -436,8 +442,8 @@ Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 378.
  ) 
 Here is how much of TeX's memory you used:
- 6160 strings out of 492616
- 91979 string characters out of 6129482
+ 6161 strings out of 492616
+ 91990 string characters out of 6129482
  200075 words of memory out of 5000000
  9972 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
@@ -447,10 +453,10 @@ Here is how much of TeX's memory you used:
 exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 60111 bytes).
+Output written on WAB_CV.pdf (10 pages, 60216 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 65 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
