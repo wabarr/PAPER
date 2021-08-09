@@ -8,4 +8,4 @@ role: undergraduate researcher
 username: paulette
 ---
 
-Paulette is a senior at GWU.  Paulette is a major contributer to the 3D comparative osteology collection project.  
+Alum: As an undergraduate at GW, Paulette was a major contributer to the 3D comparative osteology collection project, scanning many of the collections in the SEH Paleo lab.  

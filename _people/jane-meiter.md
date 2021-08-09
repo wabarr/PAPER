@@ -9,4 +9,4 @@ username: jane
 
 ---
 
-Jane is a senior at GWU.  Jane is a major contributer to the 3D comparative osteology collection project.  
+Alum: As an undergrad, Jane was a major contributer to the 3D comparative osteology collection project, spending many hours in the NMNH Museum Support Center osteology collections. 
