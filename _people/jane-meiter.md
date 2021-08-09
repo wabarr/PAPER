@@ -6,7 +6,8 @@ family_name: Meiter
 headshot: assets/images/meiter.jpg
 role: undergraduate researcher
 username: jane
+alum: true
 
 ---
 
-Alum: As an undergrad, Jane was a major contributer to the 3D comparative osteology collection project, spending many hours in the NMNH Museum Support Center osteology collections. 
+As an undergrad, Jane was a major contributer to the 3D comparative osteology collection project, spending many hours in the NMNH Museum Support Center osteology collections. 

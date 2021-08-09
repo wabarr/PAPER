@@ -5,6 +5,7 @@ headshot: 'assets/images/enqu-headshot.jpg'
 role: postdoc
 date: '2020-01-24'
 title: Enquye Negash
+alum: false
 
 ---
 

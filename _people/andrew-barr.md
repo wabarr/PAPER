@@ -8,4 +8,5 @@ role: PI
 username: wabarr
 twitter: wabarree
 email: wabarr@gwu.edu
+alum: false
 ---

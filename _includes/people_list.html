@@ -11,7 +11,7 @@
 </div>
 
 <div class="card-body">
-<h2 class="card-title"><a class="text-dark">{{ person.first_name }} {{person.family_name}}</a></h2>
+<h2 class="card-title"><a class="text-dark">{% if person.alum %}Alum - {% endif %}{{ person.first_name }} {{person.family_name}}</a></h2>
 <p class="card-text">{{ person.content }}</p>    
 </div>
 
