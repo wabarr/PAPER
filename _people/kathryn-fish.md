@@ -7,4 +7,4 @@ role: graduate student
 alum: false
 
 ---
-Kate is an incoming PhD student (Fall 2020), and a recent graduate of the University of Rhode Island (URI). At URI, Kate worked with Dr. Holly Dunsworth on a new methodology for identifying domestic dogs in the archaeological record. At the graduate level, Kate is interested in Pleistocene paleoenvironments. Kate seeks to understand the relationship between the postcranial anatomy of African mammal species and climate to gain insight into the environmental conditions in which hominins evolved.
+Kate is a PhD student in the PAPER lab. She is interested in studying the fossil faunal evidence for eastern African paleoenvironments. Her current research focus is on  modern death assemblage distributions and taphonomy to better understand the clarity with which the fossil record reflects past habitat distribution. 
