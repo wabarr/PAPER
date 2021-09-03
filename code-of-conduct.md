@@ -13,7 +13,7 @@ Examples of unacceptable behavior by laboratory members in person and in online 
 Anyone wishing to report a violation of GWU's [Sexual Harassment and Related Conduct Policy](https://compliance.gwu.edu/title-ix-sexual-harassment-and-related-conduct-policy) policy has several options: 
 
 * Calling GWU Police at 202-994-6111. Callers can ask that information remain anonymous or use the TIPS Line at 202-994-TIPS.  
-* Reporting anonymously to Title IX Coordinator at http://titleix.gwu.edu/report-incident 
+* Reporting anonymously to Title IX Coordinator [using their website](http://titleix.gwu.edu/report-incident ).
 * Calling or emailing Interim Title IX Coordinator Asha Reynolds (202-994-7434, titleix@gwu.edu)
 
    
