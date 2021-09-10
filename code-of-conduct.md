@@ -8,7 +8,7 @@ All members of the GWU PAPER lab agree to abide by certain core principles in ou
 
 We are committed to making participation in research a positive and enriching experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.
 
-Examples of unacceptable behavior by laboratory members in person and in online spaces include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct. If lab members feel this policy has been violated they should discuss either discuss the issue with PI Barr or with the [chair of the Anthropology Department](https://anthropology.columbian.gwu.edu/people).
+Examples of unacceptable behavior by laboratory members in person and in online spaces include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct. If lab members feel this policy has been violated they should either discuss the issue with PI Barr or with the [chair of the Anthropology Department](https://anthropology.columbian.gwu.edu/people).
 
 Anyone wishing to report a violation of GWU's [Sexual Harassment and Related Conduct Policy](https://compliance.gwu.edu/title-ix-sexual-harassment-and-related-conduct-policy) policy has several options: 
 
