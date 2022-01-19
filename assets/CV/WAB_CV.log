@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  19 JAN 2022 10:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  19 JAN 2022 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,16 +449,16 @@ Here is how much of TeX's memory you used:
  9972 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,43p,519b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,43p,516b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 68306 bytes).
+Output written on WAB_CV.pdf (10 pages, 68425 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
+ 176 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
  65 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
