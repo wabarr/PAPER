@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  19 JAN 2022 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 JAN 2022 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -344,7 +344,7 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 58--63
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 75.
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 74--87
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 74--86
 [] 
  []
 
@@ -359,7 +359,7 @@ our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
  []
 
 [2]) (./barr_chapters.tex [3])
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 104--110
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 103--110
 [] 
  []
 
@@ -455,7 +455,7 @@ exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 68411 bytes).
+Output written on WAB_CV.pdf (10 pages, 68222 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  158 compressed objects within 2 object streams
