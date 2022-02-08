@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 JAN 2022 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 FEB 2022 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,9 +342,14 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 58--63
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 75.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 78.
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 74--86
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 77--89
+[] 
+ []
+
+
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 92--99
 [] 
  []
 
@@ -352,95 +357,89 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 74--86
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./barr_journal_articles.tex
-Overfull \hbox (7.42793pt too wide) in paragraph at lines 19--20
+Overfull \hbox (7.42793pt too wide) in paragraph at lines 24--25
 \OT1/phv/m/n/10 Ethiopia, and the post-Hadar fau-nal change. \OT1/phv/m/sl/10 J
 our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
 /jqs.3345[][] 
  []
 
 [2]) (./barr_chapters.tex [3])
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 103--110
-[] 
- []
-
-
-Overfull \hbox (3.47873pt too wide) in alignment at lines 114--130
+Overfull \hbox (3.47873pt too wide) in alignment at lines 118--134
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 133--139
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 137--143
 [] 
  []
 
-[4]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 141.
-
-Overfull \hbox (2.63747pt too wide) in paragraph at lines 167--168
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 145.
+[4]
+Overfull \hbox (2.63747pt too wide) in paragraph at lines 171--172
 []\OT1/phv/b/n/10 Barr WA\OT1/phv/m/n/10 , Ger-aads D, Reed D, Bobe R, Wynn JG,
  Alem-seged Z. Fau-nal turnover at Mille-Logya (Plio-Pleistocene,
  []
 
-[5] [6] [7]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 280--283
+[5] [6]
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 284--287
+[] 
+ []
+
+[7]
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 289--292
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 285--288
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 294--308
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 290--304
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 310--319
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 306--315
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 322--329
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 318--325
-[] 
- []
-
-
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 327--337
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 331--341
 [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 340--348
+Overfull \hbox (3.47873pt too wide) in alignment at lines 344--352
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 351--356
+Overfull \hbox (3.47873pt too wide) in alignment at lines 355--360
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 359--364
+Overfull \hbox (3.47873pt too wide) in alignment at lines 363--368
  [] [] 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 367--377
+Underfull \hbox (badness 10000) in paragraph at lines 371--381
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 385.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
 [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 385.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
  (./WAB_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 385.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 385.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 385.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
  ) 
 Here is how much of TeX's memory you used:
  6161 strings out of 492616
@@ -449,16 +448,16 @@ Here is how much of TeX's memory you used:
  9972 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,43p,516b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,43p,516b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 68222 bytes).
+Output written on WAB_CV.pdf (10 pages, 68137 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+ 177 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
  65 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
