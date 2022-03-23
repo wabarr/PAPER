@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 FEB 2022 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 MAR 2022 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -353,10 +353,9 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 92--99
 [] 
  []
 
-[1
+(./barr_journal_articles.tex [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./barr_journal_articles.tex
 Overfull \hbox (7.42793pt too wide) in paragraph at lines 24--25
 \OT1/phv/m/n/10 Ethiopia, and the post-Hadar fau-nal change. \OT1/phv/m/sl/10 J
 our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
@@ -364,12 +363,12 @@ our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
  []
 
 [2]) (./barr_chapters.tex [3])
-Overfull \hbox (3.47873pt too wide) in alignment at lines 118--134
+Overfull \hbox (3.47873pt too wide) in alignment at lines 116--132
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 137--143
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 135--143
 [] 
  []
 
@@ -382,69 +381,74 @@ Overfull \hbox (2.63747pt too wide) in paragraph at lines 171--172
  []
 
 [5] [6]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 284--287
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 290--293
 [] 
  []
 
 [7]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 289--292
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 295--298
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 294--308
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 300--314
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 310--319
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 316--325
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 322--329
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 328--335
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 331--341
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 337--347
 [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 344--352
+Overfull \hbox (3.47873pt too wide) in alignment at lines 351--359
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 355--360
+Overfull \hbox (3.47873pt too wide) in alignment at lines 362--367
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 363--368
+Overfull \hbox (3.47873pt too wide) in alignment at lines 370--376
  [] [] 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 371--381
+Underfull \hbox (badness 10000) in paragraph at lines 379--390
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 401.
 [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 401.
  (./WAB_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 401.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 401.
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 401.
  ) 
 Here is how much of TeX's memory you used:
- 6161 strings out of 492616
- 91990 string characters out of 6129482
- 198075 words of memory out of 5000000
+ 6162 strings out of 492616
+ 92001 string characters out of 6129482
+ 199075 words of memory out of 5000000
  9972 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -454,10 +458,10 @@ exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 68137 bytes).
+Output written on WAB_CV.pdf (10 pages, 68679 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 65 named destinations out of 1000 (max. 500000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 66 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
