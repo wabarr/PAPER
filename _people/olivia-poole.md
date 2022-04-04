@@ -3,7 +3,7 @@ title: Olivia Poole
 date: 2022-04-04
 first_name: Olivia
 family_name: Poole
-headshot: assets/images/olivia-pool.jpg
+headshot: assets/images/olivia-poole.jpg
 role: undergraduate researcher
 username: oliviapoole
 alum: false
