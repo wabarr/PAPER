@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  21 JUN 2022 11:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  22 JUN 2022 10:11
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **WAB_CV.tex
 (./WAB_CV.tex
@@ -357,7 +358,7 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 93--100
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./barr_journal_articles.tex
-Overfull \hbox (7.42793pt too wide) in paragraph at lines 24--25
+Overfull \hbox (7.42793pt too wide) in paragraph at lines 26--27
 \OT1/phv/m/n/10 Ethiopia, and the post-Hadar fau-nal change. \OT1/phv/m/sl/10 J
 our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
 /jqs.3345[][] 
@@ -375,13 +376,13 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 136--144
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 146.
-
+[5]
 Overfull \hbox (2.63747pt too wide) in paragraph at lines 172--173
 []\OT1/phv/b/n/10 Barr WA\OT1/phv/m/n/10 , Ger-aads D, Reed D, Bobe R, Wynn JG,
  Alem-seged Z. Fau-nal turnover at Mille-Logya (Plio-Pleistocene,
  []
 
-[5] [6] [7]
+[6] [7]
 Overfull \hbox (3.47873pt too wide) in paragraph at lines 291--294
 [] 
  []
@@ -401,12 +402,12 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 317--326
 [] 
  []
 
-
+[8]
 Overfull \hbox (3.47873pt too wide) in paragraph at lines 329--336
 [] 
  []
 
-[8]
+
 Overfull \hbox (3.47873pt too wide) in paragraph at lines 338--348
 [] 
  []
@@ -420,10 +421,6 @@ Overfull \hbox (3.47873pt too wide) in alignment at lines 352--360
 Overfull \hbox (3.47873pt too wide) in alignment at lines 363--368
  [] [] 
  []
-
-
-Overfull \vbox (0.20692pt too high) has occurred while \output is active []
-
 
 [9]
 Overfull \hbox (3.47873pt too wide) in alignment at lines 371--377
@@ -451,9 +448,9 @@ Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 402.
  ) 
 Here is how much of TeX's memory you used:
- 6163 strings out of 492616
- 92012 string characters out of 6129482
- 198075 words of memory out of 5000000
+ 6164 strings out of 492616
+ 92023 string characters out of 6129482
+ 199075 words of memory out of 5000000
  9972 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -463,10 +460,10 @@ exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 69509 bytes).
+Output written on WAB_CV.pdf (10 pages, 69883 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 67 named destinations out of 1000 (max. 500000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 68 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
