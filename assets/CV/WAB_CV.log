@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 AUG 2022 16:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 AUG 2022 09:53
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **WAB_CV.tex
 (./WAB_CV.tex
@@ -388,69 +387,69 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 291--294
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 296--299
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 296--300
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 301--315
-[] 
- []
-
-
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 317--326
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 302--316
 [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 329--336
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 318--330
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 338--348
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 333--340
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 352--360
- [] [] 
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 342--352
+[] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 363--368
+Overfull \hbox (3.47873pt too wide) in alignment at lines 356--364
  [] [] 
  []
 
 [9]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 371--377
+Overfull \hbox (3.47873pt too wide) in alignment at lines 367--372
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--391
-
+Overfull \hbox (3.47873pt too wide) in alignment at lines 375--381
+ [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
+Underfull \hbox (badness 10000) in paragraph at lines 384--395
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 402.
 [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 402.
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 406.
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 406.
  (./WAB_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 402.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 402.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 406.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 406.
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 402.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 406.
  ) 
 Here is how much of TeX's memory you used:
- 6164 strings out of 492616
- 92023 string characters out of 6129482
- 199075 words of memory out of 5000000
+ 6165 strings out of 492616
+ 92030 string characters out of 6129482
+ 201075 words of memory out of 5000000
  9972 multiletter control sequences out of 15000+600000
  15030 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -460,10 +459,10 @@ exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 69891 bytes).
+Output written on WAB_CV.pdf (11 pages, 70270 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
- 68 named destinations out of 1000 (max. 500000)
+ 187 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 69 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
