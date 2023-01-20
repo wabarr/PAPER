@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  9 JAN 2023 09:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  20 JAN 2023 16:01
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **WAB_CV.tex
 (./WAB_CV.tex
@@ -381,112 +380,112 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 77--90
 [] 
  []
 
-[1
+(./barr_journal_articles.tex [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 118--126
-[] 
- []
-
-(./barr_journal_articles.tex
-Overfull \hbox (7.42793pt too wide) in paragraph at lines 27--28
+Overfull \hbox (7.42793pt too wide) in paragraph at lines 28--29
 \OT1/phv/m/n/10 Ethiopia, and the post-Hadar fau-nal change. \OT1/phv/m/sl/10 J
 our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
 /jqs.3345[][] 
  []
 
-[2] [3]) (./barr_chapters.tex) [4]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 143--159
+[2]) [3] (./barr_chapters.tex)
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 134--142
+[] 
+ []
+
+[4]
+Overfull \hbox (3.47873pt too wide) in alignment at lines 146--162
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 162--170
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 165--173
 [] 
  []
 
 [5]
-Overfull \hbox (2.63747pt too wide) in paragraph at lines 198--199
+Overfull \hbox (2.63747pt too wide) in paragraph at lines 201--202
 []\OT1/phv/b/n/10 Barr WA\OT1/phv/m/n/10 , Ger-aads D, Reed D, Bobe R, Wynn JG,
  Alem-seged Z. Fau-nal turnover at Mille-Logya (Plio-Pleistocene,
  []
 
 [6] [7]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 294--297
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 297--300
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 299--303
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 302--306
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 305--319
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 308--322
+[] 
+ []
+
+
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 324--336
 [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 321--333
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 339--346
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 336--343
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 348--358
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 345--355
-[] 
+Overfull \hbox (3.47873pt too wide) in alignment at lines 362--371
+ [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 359--368
+Overfull \hbox (3.47873pt too wide) in alignment at lines 374--379
  [] [] 
  []
 
 [9]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 371--376
+Overfull \hbox (3.47873pt too wide) in alignment at lines 382--388
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 379--385
- [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 388--400
+Underfull \hbox (badness 10000) in paragraph at lines 391--403
 
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
 
  []
 
-[11] (./WAB_CV.aux)
+[10] [11] (./WAB_CV.aux)
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9449 strings out of 478268
- 150131 string characters out of 5846348
+ 9450 strings out of 478268
+ 150142 string characters out of 5846348
  462646 words of memory out of 5000000
  27482 multiletter control sequences out of 15000+600000
  480962 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,524b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,11n,63p,524b,478s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (11 pages, 73321 bytes).
+Output written on WAB_CV.pdf (11 pages, 73624 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
- 68 named destinations out of 1000 (max. 500000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 69 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
