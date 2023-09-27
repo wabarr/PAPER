@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  27 JAN 2023 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  27 SEP 2023 13:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -384,7 +384,7 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 77--90
 (./barr_journal_articles.tex [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (7.42793pt too wide) in paragraph at lines 36--37
+Overfull \hbox (7.42793pt too wide) in paragraph at lines 38--39
 \OT1/phv/m/n/10 Ethiopia, and the post-Hadar fau-nal change. \OT1/phv/m/sl/10 J
 our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
 /jqs.3345[][] 
@@ -422,47 +422,47 @@ Overfull \hbox (3.47873pt too wide) in paragraph at lines 300--304
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 306--320
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 306--321
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 322--334
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 323--335
 [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 337--344
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 338--345
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 346--356
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 347--357
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 360--369
+Overfull \hbox (3.47873pt too wide) in alignment at lines 361--370
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 372--377
+Overfull \hbox (3.47873pt too wide) in alignment at lines 373--378
  [] [] 
  []
 
 [9]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 380--386
+Overfull \hbox (3.47873pt too wide) in alignment at lines 381--387
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--401
+Underfull \hbox (badness 10000) in paragraph at lines 390--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
 
  []
 
@@ -483,10 +483,10 @@ exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (11 pages, 73983 bytes).
+Output written on WAB_CV.pdf (11 pages, 74105 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 172 compressed objects within 2 object streams
+ 196 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
  69 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
