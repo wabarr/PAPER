@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  27 SEP 2023 13:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  13 OCT 2023 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,15 +289,15 @@ LaTeX Font Info:    ... okay on input line 29.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
-* v-part:(T,H,B)=(61.42993pt, 668.4975pt, 65.04256pt)
+* h-part:(L,W,R)=(61.42993pt, 491.43513pt, 61.42993pt)
+* v-part:(T,H,B)=(65.04256pt, 664.88487pt, 65.04256pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=513.11745pt
-* \textheight=668.4975pt
-* \oddsidemargin=-21.68121pt
-* \evensidemargin=-21.68121pt
-* \topmargin=-47.84006pt
+* \textwidth=491.43513pt
+* \textheight=664.88487pt
+* \oddsidemargin=-10.84006pt
+* \evensidemargin=-10.84006pt
+* \topmargin=-44.22743pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -365,7 +365,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 58--63
+Overfull \hbox (4.34587pt too wide) in paragraph at lines 58--63
 [] 
  []
 
@@ -377,116 +377,117 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 79.
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 77--90
+Overfull \hbox (4.34587pt too wide) in paragraph at lines 77--90
 [] 
  []
 
 (./barr_journal_articles.tex [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (7.42793pt too wide) in paragraph at lines 38--39
-\OT1/phv/m/n/10 Ethiopia, and the post-Hadar fau-nal change. \OT1/phv/m/sl/10 J
-our-nal of Qua-ter-nary Sci-ence\OT1/phv/m/n/10 . 36:1073-1089. [][]doi:10.1002
-/jqs.3345[][] 
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+) (./barr_chapters.tex
+Overfull \hbox (5.33098pt too wide) in paragraph at lines 3--4
+\OT1/phv/m/sl/10 and Hu-man Evo-lu-tion\OT1/phv/m/n/10 . 229-241. Cam-bridge Un
+i-ver-sity Press, Cam-bridge. [][]doi:10.1017/9781139696470.019[][] 
  []
 
-[2] [3]) (./barr_chapters.tex)
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 132--140
+) [4]
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 133--141
 [] 
  []
 
-[4]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 144--160
+
+Overfull \hbox (4.34587pt too wide) in alignment at lines 145--161
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 163--171
+Overfull \hbox (4.34587pt too wide) in paragraph at lines 164--172
 [] 
  []
 
-[5]
-Overfull \hbox (2.63747pt too wide) in paragraph at lines 199--200
-[]\OT1/phv/b/n/10 Barr WA\OT1/phv/m/n/10 , Ger-aads D, Reed D, Bobe R, Wynn JG,
- Alem-seged Z. Fau-nal turnover at Mille-Logya (Plio-Pleistocene,
+[5] [6]
+Overfull \hbox (20.29199pt too wide) in paragraph at lines 218--219
+[]\OT1/phv/m/n/10 Robinson, JR, Rowan J, \OT1/phv/b/n/10 Barr WA\OT1/phv/m/n/10
+ , Spon-heimer M. Link-ing mam-malian her-bi-vore di-ets and (pa-leo)environmen
+ts:
  []
 
-[6] [7]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 295--298
-[] 
- []
-
-
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 300--304
+[7]
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 319--322
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 306--321
-[] 
- []
-
-
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 323--335
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 324--328
 [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 338--345
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 330--345
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 347--357
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 347--360
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 361--370
- [] [] 
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 363--374
+[] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 373--378
- [] [] 
+Overfull \hbox (4.34589pt too wide) in paragraph at lines 376--386
+[] 
  []
 
 [9]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 381--387
+Overfull \hbox (4.34589pt too wide) in alignment at lines 390--399
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--402
+Overfull \hbox (4.34589pt too wide) in alignment at lines 402--407
+ [] [] 
+ []
+
+
+Overfull \hbox (4.34589pt too wide) in alignment at lines 410--416
+ [] [] 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 419--431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+Underfull \hbox (badness 10000) in paragraph at lines 433--435
 
  []
 
-[10] [11] (./WAB_CV.aux)
+[11] (./WAB_CV.aux)
 Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9450 strings out of 478268
- 150142 string characters out of 5846348
- 462646 words of memory out of 5000000
+ 9453 strings out of 478268
+ 150175 string characters out of 5846348
+ 461651 words of memory out of 5000000
  27482 multiletter control sequences out of 15000+600000
  480962 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,671b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,11n,63p,671b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (11 pages, 74105 bytes).
+Output written on WAB_CV.pdf (11 pages, 75407 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
- 69 named destinations out of 1000 (max. 500000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 72 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
