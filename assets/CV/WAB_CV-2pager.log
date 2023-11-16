@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  15 NOV 2023 08:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  20 OCT 2023 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**WAB_CV.tex
-(./WAB_CV.tex
+**WAB_CV-2pager.tex
+(./WAB_CV-2pager.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
@@ -259,8 +259,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box56
 )
-(./WAB_CV.aux)
-\openout1 = `WAB_CV.aux'.
+(./WAB_CV-2pager.aux)
+\openout1 = `WAB_CV-2pager.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -356,9 +356,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
 LaTeX Info: Redefining \nameref on input line 29.
- (./WAB_CV.out) (./WAB_CV.out)
+ (./WAB_CV-2pager.out) (./WAB_CV-2pager.out)
 \@outlinefile=\write3
-\openout3 = `WAB_CV.out'.
+\openout3 = `WAB_CV-2pager.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 43.
@@ -377,117 +377,61 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 79.
 
-Overfull \hbox (4.34587pt too wide) in paragraph at lines 77--90
-[] 
- []
-
-(./barr_journal_articles.tex [1
-
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-) (./barr_chapters.tex
-Overfull \hbox (5.33098pt too wide) in paragraph at lines 3--4
-\OT1/phv/m/sl/10 and Hu-man Evo-lu-tion\OT1/phv/m/n/10 . 229-241. Cam-bridge Un
-i-ver-sity Press, Cam-bridge. [][]doi:10.1017/9781139696470.019[][] 
- []
-
-) [4]
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 133--141
+Overfull \hbox (4.34587pt too wide) in paragraph at lines 77--86
 [] 
  []
 
 
-Overfull \hbox (4.34587pt too wide) in alignment at lines 145--161
- [] [] 
- []
-
-
-Overfull \hbox (4.34587pt too wide) in paragraph at lines 164--172
-[] 
- []
-
-[5] [6]
-Overfull \hbox (20.29199pt too wide) in paragraph at lines 218--219
-[]\OT1/phv/m/n/10 Robinson, JR, Rowan J, \OT1/phv/b/n/10 Barr WA\OT1/phv/m/n/10
- , Spon-heimer M. Link-ing mam-malian her-bi-vore di-ets and (pa-leo)environmen
-ts:
- []
-
-[7]
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 319--322
-[] 
- []
-
-
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 324--328
-[] 
- []
-
-[8]
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 330--345
-[] 
- []
-
-
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 347--360
-[] 
- []
-
-
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 363--374
-[] 
- []
-
-
-Overfull \hbox (4.34589pt too wide) in paragraph at lines 376--386
-[] 
- []
-
-[9]
-Overfull \hbox (4.34589pt too wide) in alignment at lines 390--399
- [] [] 
- []
-
-
-Overfull \hbox (4.34589pt too wide) in alignment at lines 402--407
- [] [] 
- []
-
-
-Overfull \hbox (4.34589pt too wide) in alignment at lines 410--416
- [] [] 
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 419--431
+Overfull \hbox (47.47061pt too wide) in paragraph at lines 102--103
+\OT1/phv/m/sl/10 oe-col-ogy and Hu-man Evo-lu-tion\OT1/phv/m/n/10 . 229-241. Ca
+m-bridge Uni-ver-sity Press, Cam-bridge. [][]doi:10.1017/9781139696470.019[][] 
 
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 433--435
-
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (16.3791pt too wide) in paragraph at lines 104--105
+\OT1/phv/m/n/10 are de-cou-pled from ecosys-tem woody cover. \OT1/phv/m/sl/10 N
+a-ture Ecol-ogy and Evo-lu-tion\OT1/phv/m/n/10 . 5:995{1002. [][]doi:10.1038/s4
+1559-
  []
 
-[11] (./WAB_CV.aux)
-Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
+
+Overfull \hbox (26.53267pt too wide) in paragraph at lines 125--126
+\OT1/phv/m/n/10 anal-y-ses. \OT1/phv/m/sl/10 Palaeo-geog-ra-phy, Palaeo-cli-ma-
+tol-ogy, Palaeoe-col-ogy\OT1/phv/m/n/10 . 496:103-120. [][]doi:10.1016/j.palaeo
+.2018.01.027[][] 
+ []
+
+
+Overfull \hbox (14.31848pt too wide) in paragraph at lines 127--128
+\OT1/phv/m/n/10 mor-phol-ogy of the bovid as-tra-galus. \OT1/phv/m/sl/10 Jour-n
+al of Hu-man Evo-lu-tion\OT1/phv/m/n/10 . 88:97-107. [][]doi:10.1016/j.jhevol.2
+015.05.002[][] 
+ []
+
+[2] (./WAB_CV-2pager.aux)
+Package rerunfilecheck Info: File `WAB_CV-2pager.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9453 strings out of 478268
- 150175 string characters out of 5846348
- 461651 words of memory out of 5000000
- 27482 multiletter control sequences out of 15000+600000
- 480962 words of font info for 43 fonts, out of 8000000 for 9000
+ 9363 strings out of 478268
+ 149221 string characters out of 5846348
+ 460531 words of memory out of 5000000
+ 27464 multiletter control sequences out of 15000+600000
+ 478723 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,671b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,11n,63p,505b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (11 pages, 75217 bytes).
+Output written on WAB_CV-2pager.pdf (2 pages, 45456 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 72 named destinations out of 1000 (max. 500000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
