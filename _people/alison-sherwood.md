@@ -1,6 +1,5 @@
 ---
 title: Alison Sherwood
-date: 2023-02-24
 first_name: Alison
 family_name: Sherwood
 headshot: assets/images/sherwood.jpg
