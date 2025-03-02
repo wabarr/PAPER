@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  17 OCT 2024 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  4 FEB 2025 08:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -411,42 +411,42 @@ ironments:
  []
 
 [6]
-Overfull \hbox (30.86378pt too wide) in paragraph at lines 289--314
+Overfull \hbox (30.86378pt too wide) in paragraph at lines 289--317
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 318--329
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 321--332
 [] 
  []
 
 [7]
-Overfull \hbox (3.47873pt too wide) in paragraph at lines 331--341
+Overfull \hbox (3.47873pt too wide) in paragraph at lines 334--344
 [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 372--382
+Overfull \hbox (3.47873pt too wide) in alignment at lines 375--385
  [] [] 
  []
 
 
-Overfull \hbox (3.47873pt too wide) in alignment at lines 385--390
+Overfull \hbox (3.47873pt too wide) in alignment at lines 388--393
  [] [] 
  []
 
 [8]
-Overfull \hbox (3.47873pt too wide) in alignment at lines 393--400
+Overfull \hbox (3.47873pt too wide) in alignment at lines 396--403
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--415
+Underfull \hbox (badness 10000) in paragraph at lines 406--418
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--420
+Underfull \hbox (badness 10000) in paragraph at lines 420--423
 
  []
 
@@ -457,7 +457,7 @@ Package rerunfilecheck Info: File `WAB_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  9412 strings out of 478268
  149793 string characters out of 5846348
- 463648 words of memory out of 5000000
+ 465648 words of memory out of 5000000
  27480 multiletter control sequences out of 15000+600000
  480962 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -467,10 +467,10 @@ exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on WAB_CV.pdf (10 pages, 73111 bytes).
+Output written on WAB_CV.pdf (10 pages, 73389 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
+ 157 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
