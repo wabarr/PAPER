@@ -9,4 +9,4 @@ username: sophiemuir
 alum: true
 ---
 
-Sophie Muir is an undergraduate student at GW where she studies anthropology. She has been working in the PAPER lab, which has allowed her to explore interests in comparative osteology, 3D scanning, and scientific communication. She is a part of the research team working on creating a collection of 3D comparative skeletons and an accompanying website.
+Sophie Muir was an undergraduate student at GW where she studied anthropology. She worked in the PAPER lab, which  allowed her to explore interests in comparative osteology, 3D scanning, and scientific communication. She was a part of the research team working on creating a collection of 3D comparative skeletons and an accompanying website.
